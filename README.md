@@ -6,7 +6,7 @@
 
 ## Technologies utilisées
 
--   R, Shiny, Leaflet, dplyr, ggplot2
+-   R, Shiny, Leaflet, dplyr, ggplot2, Git
 
 ## Mon rôle
 
